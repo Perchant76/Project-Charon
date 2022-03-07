@@ -8,7 +8,7 @@ How to set up this private server:
 Server setup:
 CASUAL SETUP WITHOUT TOR
 download the file for linux use git clone
-`git clone https://github.com/Perchant76/Anonymous-chat-app`
+`git clone https://github.com/Perchant76/Project-Charon`
 change host to your IP.
 change port to whatever you want but I would recommend something in this range: `1000-99999`
 
@@ -16,7 +16,7 @@ ANONYMOUS SETUP WITH TOR
 
 SERVER SETUP:
 download the file or if youre using linux use git
-`git clone https://github.com/Perchant76/Anonymous-chat-app`
+`git clone https://github.com/Perchant76/Project-Charon`
 IF are you are using Linux server make sure you have tor installed on your device
 Debian/Ubuntu:
 `sudo apt-get install tor`
@@ -48,11 +48,11 @@ Have fun!!!
 Client setup:
 
 Linux:
-`git clone https://www.github.com/perchant67/Anonymous-chat-app`
+`git clone https://www.github.com/Perchant76/Project-Charon`
 Windows:
 just click on the `code` button and `Download ZIP`
 Mac OS:
-`git clone https://www.github.com/Perchant76/Anonymous-chat-app`
+`git clone https://www.github.com/Perchant76/Project-Charon`
 !!!Dont share client.py with random people.!!! Reason for that is that the IP of server is not hidden and someone experieced can do malicious stuff with your or the server IP.
 If the server is running without tor just change the `127.0.0.1` to IP of the server.
 If using the tor version change `127.0.0.1` to  
